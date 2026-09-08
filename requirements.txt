@@ -1,0 +1,1 @@
+# Không có thư viện ngoài. Ứng dụng dùng Tkinter (stdlib)
